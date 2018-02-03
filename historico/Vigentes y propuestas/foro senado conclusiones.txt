@@ -1,0 +1,525 @@
+Conclusiones
+Clausura del Foro Software Libre en México, Reflexiones y Oportunidades
+Los diversos actores cuyo trabajo cotidiano en México nos vinculo al Software
+Libre, participantes en este foro, consideramos estratégico para el país el
+impulso y la promoción del Software libre en todos los ámbitos de la vida
+nacional. Después de un proceso de reflexión colectiva y discusión fraterna,
+declaramos y proponemos lo siguiente al Congreso de la Unión y a la
+sociedad mexicana:
+La protección a la propiedad social del Software Libre bajo licencia
+COPYLEFT
+(de
+acuerdo
+con
+su
+definición:
+http://www.gnu.org/copyleft/copyleft.es.html) en las leyes mexicanas, de tal
+modo que aquella persona u empresa que pretenda hacerlo privativo sea
+sancionado. El reconocimiento del software libre como un bien intangible de
+carácter social y público implica también su protección, ya que cualquier
+intento de privatización es indebida e ilegítima. Por ello proponemos que el
+Estado mexicano proteja este bien público que se reconozca que está en el
+interés de cualquier ciudadano o ciudadana dicha protección, sin importar
+que los derechos de autor los tenga un equipo de desarrollo fuera del país.
+Esta protección, que tiene vinculación con diversos derechos humanos ya
+reconocidos, tendrá como efecto la afirmación por parte del Estado mexicano
+de que el conocimiento debe de ser libre y que su distribución en la llamada
+"era digital" no debe tener restricción alguna.
+1.
+
+1.a Como parte de la labor legislativa de nuestro país el Senado de la
+República y los Congresos de cada Estado podrían elaborar las iniciativas
+con las mismas intenciones propiciando un respaldo global a los esfuerzos
+que se están llevando a cabo en todo el país.
+Lo
+cual
+debe
+de
+reflejarse en un desarrollo integral en nuestro país con la intención de que
+se
+comiencen a crear las soluciones alternativas a las necesidades de la
+educación, gobierno,
+industria y sociedad en general.
+1.b Estudiar las estrategias de los proyectos que han propiciado el
+desarrollo económico y
+tecnológico basados en el aprovechamiento y la
+producción de soluciones de Software Libre
+de
+países
+como
+Brasil,
+Argentina, España, Francia y Venezuela.
+1.c Enfocar el proyecto a integrar a todos los sectores productivos del
+país y a la sociedad en
+general con la promoción del Software Libre
+mediante eventos, cursos, publicaciones, y
+actividades
+accesibles
+a
+cualquier persona y eliminar el enfoque hacia aquellos considerados
+como
+expertos.
+1.d Fomentar proyectos de desarrollo de tecnología propia gestionando
+recursos enfocados a crear centros tecnológicos en los Estados que a su
+vez estén vinculados entre sí de tal forma
+que desarrollos hechos por
+cada uno de ellos se redistribuyan al resto de los centros creando
+un
+ambiente colaborativo y distribuido; de tal forma que cualquier institución,
+organización, gobierno y empresa por pequeña que sea cuente con el soporte
+y respaldo de integradores
+expertos.
+
+En el ámbito de los derechos de los consumidores y consumidoras
+-como usuarios finales- el Estado debe garantizar que las personas puedan
+contar con diferentes opciones de Sistema Operativo en la compra de sus
+equipos nuevos y que se garantice la reducción correspondiente del precio
+cuando el
+comprador o compradora no deseé el Sistema Operativo
+preinstalado. Esto fomentará la competencia, disminuirá precios y será la
+materialización del derecho de elección del consumidor, que tiene como
+antecedente el derecho de recibir la información que requiere su decisión. De
+manera complementaria es necesario castigar la venta obligada y
+subordinada de un producto con otro, como sucede en este momento de
+manera impuesta en todas las compras de equipo de cómputo personal y de
+oficina que obligan el pago de licencias a Microsoft por su Sistema Operativo
+Windows.
+1.
+
+2.a Como una estrategia recomendada es necesario trabajar para que
+el Software Libre
+cuente con el respaldo y apoyo legislativo para
+propiciar que se deje de ver como algo inestable e inmaduro y se vea como
+una alternativa viable para propiciar el desarrollo
+tecnológico además del
+beneficio económico que implica.
+2.b Los consumidores y las consumidoras son los más beneficiados de
+liberarse de usar
+software comercial privativo y utilizar las alternativas
+en software libre; lo anterior debido a
+que
+pueden
+obtener
+cualquier
+distribución de sistema operativo que a su vez cuenta con las
+herramientas
+para obtener e instalar cualquier aplicación desde internet; afortunadamente
+en
+la actualidad existe una aplicación de Software Libre incluso hasta más
+robustas que las comercialmente conocidas.
+2.c Al permitirse que los consumidores y consumidoras seleccionen el
+uso de Software Libre, tendra como consecuencia que los fabricantes de
+Software Privativo tengan que hacer ofertas más atrativas trayendo como
+beneficio una mejor oferta del costo de software privativo comercial.
+Es necesario evitar la fuga de capitales originada por el sistema
+internacional del Copyright en el que los precios de las licencias de software
+privativo no se corresponden con su costo de producción y que generan,
+debido al intermedialismo, diferencias de precios significativas de un mismo
+producto en diferentes países. Estas situaciones hacen evidente que la
+transferencia tecnológica que dice promover la gran industria del software
+cerrado no es otra cosa más que la captura de mercados para el cobro de
+regalías que generan un flujo desfavorable de capital para la inmensa
+mayoría de los países. Es necesario agregar que la adquisición de licencias
+de software privativo no implica la propiedad del software, sino sólo el
+permiso de uso bajo ciertas condiciones. Por ello, es importante que el Poder
+Legislativo valore en su justa dimensión la importancia del fenómeno vigente
+de transferencia tecnológica -en propiedad social- que se encuentran
+realizando los miles de proyectos que conforman el movimiento del software
+libre: proyectos originados principalmente en países industrializados (pero no
+sólo) por gente que hace programación, diseño, traducción, pruebas,
+documentación y manuales, o que hospeda estos proyectos en sus
+1.
+
+servidores, o que resuelve consultas de otras personas usuarias ayudando a
+que éstas adquieran nuevas habilidades. Todos y todas contribuyen de
+manera desinteresada a dichos proyectos con el compromiso -llevado
+inclusive al orden legal, mediante el licenciamiento libre- de que la
+propiedad de todos esos esfuerzos es pública y social más allá de las
+fronteras geográficas.
+3.a Aún cuando las aplicaciones de Software Libre hoy en día son
+estables y robustas no se
+debe de cerrar el enfoque solo al uso de las
+existentes, es necesario contar con la visión
+necesaria para generar las
+condiciones de desarrollo para mejorar las aplicaciones actuales y
+generar
+aplicaciones nuevas. Por lo tanto se deben crear las condiciones para dicho
+desarrollo que además de beneficiar al Software Libre provocará la
+generación de empleos,
+crecimiento de las empresas y la generación de
+oportunidades de crecimiento para todos.
+3.b La utilización de software privativo lleva aunada la imposibilidad de
+realizar analísis de seguridad en su código fuente, mientras el Software Libre
+puede ser analizado, modificado y certificado para ser usado en todo tipo de
+aplicaciones incluidas las de misión critica, por tanto el uso de Software
+Libre es un asunto de seguridad nacional. Al disminuir el pago de
+licenciamiento desde el estado, este puede optar por hacer negociaciones
+más ventajosas que igualmente generarán ahorros al erario público.
+En el ámbito de la educación es necesario legislar en el nivel federal
+y estatal, también con la intervención de las comunidades universitarias en
+sus espacios y en otros ámbitos que poseen cierta autonomía, como las
+comunidades indígenas, en el sentido de obligar el aprovechamiento de
+Software Libre en la gestión administrativa, en la docencia y la investigación,
+y que sus productos -libros, artículos, tesis, etc.-, queden bajo licencias
+también libres. Estas reformas deben fijar en la agenda educativa, la
+construcción de la Soberanía Tecnológica, que entre otros aspectos debe
+enseñar procesos y lógicas, no implementaciones de marcas; y de esa
+manera superar las limitaciones de la formación educativa sobre la base de
+los programas de un fabricante lo que hasta ahora ha resultado nocivo. Tal
+es el caso de los programas de estudio oficiales de nivel básico y medio
+relativos a la enseñanza de la ofimática, pues dicho esfuerzo educativo sólo
+ha representado entrenamiento de los próximos consumidores y
+consumidoras, o sea próximos clientes, de Microsoft Office. De tal modo que
+hay que combatir la ignorancia sobre otras opciones de Ofimática Libre más
+eficientes y seguras. El proyecto
+educativo nacional debe perseguir
+potenciar -y no limitar- las habilidades creativas de los educandos y en el
+terreno tecnológico, debe aprovechar la existencia de proyectos de Software
+Libre maduros y que
+incorporan conocimiento de punta a los que las
+universidades pueden tener acceso, para estudiar, modificar, distribuir y
+aprovechar en sus actividades de vinculación, generando así modelos de
+apropiación social de la tecnología. Una mención especial merece la creación
+de la maestría en Software Libre en la Universidad Autónoma de Chihuahua,
+a la que saludamos.
+1.
+
+Siendo la Educación la base para formar profesionistas y mexicanos
+
+capaces, la comunidad
+de Software Libre Nacional solicita a las
+instancias legislativas estatales y federales
+recomendar al sector educativo
+del País en todos sus niveles considerar y si así lo
+definen
+solicitar
+que
+apliquen las siguientes consideraciones:
+4.a Las Instituciones de Educación deben aprovechar su influencia en la
+sociedad para
+fomentar el uso de otras alternativas y cambiar la dinámica
+de los programas educativos
+de
+los niveles medio superior, superior
+y posgrados considerando dos sectores: Programas Educativos del área de
+las Tecnologías de
+Información que de manera básica siempre se
+enfocan a capacitar en el uso solo de las aplicaciones comerciales y
+privativas a lo cual
+deben
+integrar también aplicaciones abiertas y la
+parte más importante propiciar en programas especializados el estudio y
+capacitación en la creación de aplicaciones sobre lenguajes de
+programación
+abiertos y enfocados a plataformas libres.
+4.b Es importante integrar el uso de aplicaciones libres desde los
+niveles educativos iniciales como primaria y secundaria que le den a los
+niños y adolescentes la opción de conocer y
+utilizar
+las
+herramientas
+tecnológicas existentes dejando a cada uno de ellos la oportunidad
+de
+decidir en base a su desempeño cual utilizar. Es importante mencionar el
+Proyecto
+Escuelas Linux de la Secretaría de Educación del Estado de
+Zacatecas en la que actualmente tiene
+aproximadamente
+5,000
+computadoras instaladas en primarias estatales con una
+distribución
+de
+Linux y sus aplicaciones a las que cada año se incrementa una cantidad
+importante, además de un aproximado de 2,500 computadoras entregadas a
+maestros del
+magisterio con la misma distribución.
+4.c Una parte importante es comenzar a crear programas innovadores
+de licenciaturas y
+posgrados distintas a las tradicionales en las cuales
+su enfoque completo sea hacia el aprovechamiento de las plataformas así
+como aplicaciones de Software Libre, con la idea de
+crear profesionistas
+especializados para comenzar a formar una base sólida que de respaldo,
+soporte y certidumbre al Software Libre; siguiendo el ejemplo del único
+programa formal en
+esta línea que es la Maestría en Software Libre en la
+Universidad Autónoma de Chihuahua.
+4.d Las instituciones de Educación deben comenzar a analizar las
+alternativas actuales así
+como la estrategia para comenzar a rediseñar
+las aplicaciones diseñadas de manera
+específica que son utilizadas para
+los procesos administrativos de las instituciones; debe de propiciar la
+optimización de recursos financieros y humanos para crear una base solida
+sobre
+software libre que a corto plazo propicie un desarrollo integral y
+permita invertir los
+recursos financieros en capacitaciones e innovación
+tecnológica.
+4.e Actualmente el costo por el licenciamiento de plataformas y
+aplicaciones privativas es
+demasiado alto lo que provoca que se utilicen
+versiones sin licencias que provocan
+problemas de pirateria e ilegalidad;
+debe considerarse en vez de pagar grandes cantidades de
+dinero
+en
+licenciamiento enfocar una parte de esos recursos para la especialización y
+
+capacitación de los responsables de dirigir los proyectos tecnológicos
+de cada institución.
+(5) Con relación al gobierno, consideramos que debe ser obligación estatal
+garantizar la interoperatividad (http://interoperability- definition.info/es/) en
+los sistemas de cómputo -a través de estándares estrictamente abiertos-,
+así como utilizar licencias libres en todos los nuevos desarrollos de software
+de la administración pública en los tres niveles de gobierno. De esa manera
+el diseño y la programación de dichos desarrollos de software y la
+administración y el soporte de éstos, no estará sujeta a un proveedor y por
+el contrario, los gobiernos estatales o municipales o las diferentes
+Secretarías de Estado podrán beneficiarse en la satisfacción de sus
+necesidades actuales, de desarrollos de software originados en otra esfera
+de gobierno u otra entidad lo que puede significar un inmenso ahorro
+presupuestal.
+La agenda digital nacional hasta ahora sólo ha incluido la visión de algunas
+grandes empresas privadas y le hace falta incorporar el punto de vista de las
+comunidades universitarias, las diversas comunidades de desarrollo de
+software libre, y de los y las usuarias y usuarios, por lo que es necesario que
+la legislación contemple reglas inclusivas para que el gobierno conforme la
+agenda digital de esa misma manera. El Congreso debe sentar las bases de
+una política pública que persiga la Soberanía Tecnológica. Por otro lado es
+necesario penalizar las violaciones a los derechos de los usuarios (como
+consumidores) a la libertad de elección, por lo que debe de respetarse el
+criterio de interoperabilidad en los portales web gubernamentales: SAT, IMSS
+- SUA, INFONAVIT, INEGI, etc. y en aquellos de empresas privadas cuyos
+servicios tienen como medio el Internet, tal es el caso de los bancos y sus
+servicios en-línea. Dichas reformas son un imperativo, como lo es aprovechar
+los innumerables recursos de software libre ya disponibles con los que se
+puede tener un ahorro en los costos directos de adquisición y entender que
+de no aprovecharlos se está incurriendo en un costo de oportunidad que debe
+tener implicaciones legales para las personas que desde el gobierno son
+responsables de la adquisición de bienes y servicios.
+5.a Respaldar todas las iniciativas que surgan desde cualquier entidad
+de gobierno desde la
+parte legislativa.
+5.b Actualmente la mayoría de los gobiernos principalmente federal y
+estatales cuentan con infraestructura tecnológica basada en software libre,
+principalmente servidores dadas sus
+características
+de
+seguridad,
+estabilidad y confiabilidad; el uso de plataformas libres no es
+suficiente
+y
+debe ser complementado utilizando servidores de bases de datos, lenguajes
+de
+desarrollo y arquitecturas de programación igualmente dentro de las
+soluciones abiertas.
+Otra parte importante es comenzar a desarrollar
+aplicaciones orientadas a instalarse
+especificamente en distribuciones
+Linux como cliente para el aprovechamiento de los usuarios
+finales
+que
+vayan creando el escenario idóneo para una migración integrada.
+5.c Sería relevante que los Gobiernos Estatales crearán con el apoyo de
+las universidades
+centros de desarrollos de software libre en el cual se
+
+tenga una base importante de
+investigadores, líderes de proyectos y
+especialistas que generen los proyectos adecuados de
+acuerdo
+a
+la
+naturaleza de cada instancia de gobierno e institución de educación.
+5.d Los gobiernos podrían incluir en sus catálogos de proveedores el
+requisito de que las
+empresas tengan
+la capacidad de brindarles
+soluciones y soportes basados en alternativas de
+Software Libre lo que
+generaría la necesidades en las empresas de integrarse al desarrollo que los
+gobiernos estaría generando.
+5.e Las instancias de adquisiciones y compras de cada Gobierno
+debería incluir en sus reglas de operación la posibilidad de que los
+proveedores puedan ofertar soluciones basadas en Software
+Libre;
+esto
+tendrá un impacto principalmente económico reduciendo las
+inversiones
+en equipo y creará una plataforma con amplias posibilidades de desarrollo.
+Dando clumpimiento con el decreto de austeridad, el cual deberá así mismo
+reglamentarse y en su caso legislar las sanciones administrativas y
+económicas que podran enfrentar las instituciones federales o estatales que
+no den cumplimiento a dicho decreto.
+5.f Debido a la evolución de las plataformas y aplicaciones privativas
+que cada vez exigen
+más recursos de los equipos de cómputo, el uso de
+software libre además de todas las
+bondades ya expresadas gracias a
+su optimización de recursos alarga de manera considerable
+la vida útil de
+los recursos informáticos evitando la obsolescencia de dichos equipos en
+tiempos cortos.
+5.g Actualmente el costo por el licenciamiento de plataformas y
+aplicaciones privativas es
+demasiado alto lo que provoca que se utilicen
+versiones sin licencias que provocan
+problemas de pirateria e ilegalidad;
+debe considerarse en vez de pagar grandes cantidades de
+dinero
+en
+licenciamiento enfocar una parte de esos recursos para la especialización y
+capacitación de los responsables de dirigir los proyectos tecnológicos
+de cada institución.
+5.h Dada la capacidad de crear desarrollos propios de ahi se obtiene
+soberania tecnologica al
+ser el mismo gobierno el generador de sus
+aplicaciones de manera conjunta con instituciones
+o
+centros
+de
+investigación y universidades.
+5.i Los desarrollos realizados en cualquiera de los 3 niveles de
+gobierno sea basado en una plataforma que permita la libre redistribución
+entre cualquier entidad gubernamental con el fin de reutilizarlo y a su vez
+cada instancia pueda mejorarlo y adecuarlo a sus necesidades
+especificas.
+Esto generaría diversos beneficios económicos, tecnológicos y sociales dado
+su
+naturaleza colaborativa entre los interesados.
+5.j La obligatoriedad de todas las instituciones federales o estatales
+para usar estandares abiertos como el uso de opendocument, así como la
+obligatoriedad del estado de distribuir aplicaciones abiertas de tal forma que
+no se haga obligatorio el uso de un sistema operativo especifíco.
+
+Desde las empresas un planteamiento reiterado es la existencia de
+indicios de sobornos en las licitaciones para las compras de gobierno, así
+como condiciones de competencia definidas que resultan excluyentes de
+manera injustificada. Por otro lado, afirmamos que el desarrollo de la
+industria nacional que utiliza y promueve el Software Libre puede evitar la
+inmensa fuga de recursos humanos y capitales al exterior que ahora se da, si
+se le respalda con cambios a las normas, en los presupuestos y en los
+programas de gobierno. Otro requerimiento de la comunidad del Software
+Libre al Congreso, es concretar cambios a las leyes para dar un impulso
+eficaz al desarrollo de Software Libre sobre la base de contrataciones para
+desarrollos e implementaciones y compra de servicios de soporte del
+gobierno a empresas mexicanas con plazos de pago que no deben de
+extenderse en el tiempo, recursos con los cuales se pagan obligaciones
+corrientes. Así también, es necesario el financiamiento a PYMES,
+respaldándoles con capital de riesgo con intereses menores o recursos para
+poder ser partícipes de licitaciones y concursos de proveedores. Afirmamos
+que por sus características, el software libre es la mejor carta para el
+desarrollo de la industria nacional de software. En ese terreno, una
+propuesta es la conformación de unidades de alta especialización que
+aprovechen nichos de mercado específicos que las grandes corporaciones no
+pueden cubrir y en donde las PYMES pueden aprovechar sus propiedades de
+movilidad para competir en diversos espacios de oportunidad existentes.
+1.
+
+6.a Fomentando un desarrollo unificado y colaborativo, en cada uno de
+los Estados se deben de crear agrupaciones de empresas que integradas
+busquen los apoyos tanto en sus gobiernos
+estatales, el gobierno federal
+y otras instancias nacionales internacionales, lo anterior para
+crear
+programas de capacitación, actualización y especialización que les permitan
+contar con la capacidad para integrarse al desarrollo que provocarían las
+iniciativas en gobierno e
+instituciones
+de
+educación enfocadas al
+aprovechamiento del Software Libre.
+6.b La necesidad de integrarse al desarrollo que provocarían los
+gobiernos e instituciones de educación debe propiciar el surgimiento de
+nuevas empresas especializadas en software libre
+además
+que
+las
+existentes tendrán la necesidad de contratar personal especializado en esa
+línea lo que se verá reflejado en la generación de empleos.
+6.c Las empresas pueden verse perjudicadas debido a que las
+utilidades generadas por la comercialización de los planes de licenciamiento
+de software privativo y comercial se van a
+reducir
+considerablemente;
+deben enfocarse en especializarse dado que el uso de Software
+Libre
+abrirá las puertas para aquellas empresas que tengan capacidad de brindar
+soportes y soluciones alternativas.
+(7) Desde la sociedad civil hemos logrado la conceptualización del Software
+Libre como un bien común intangible que requiere, como los demás bienes
+comunes, manejo sostenible, gestión democrática y acceso universal.
+Hacemos uso de diversos proyectos concretos de Software Libre para facilitar
+el acceso democrático a la tecnología, aún considerando que los equipos
+
+disponibles tengan pocos recursos de memoria, disco duro o procesamiento
+con lo que hemos contribuido a reducir la denominada brecha digital. Por ello
+podemos asegurar que existen alternativas al consumismo tecnológico
+basadas en proyectos exitosos y alternativos que rompen la lógica la
+obsolescencia programada de las grandes corporaciones fabricantes de
+software y hardware y que deben ser consideradas por el gobierno y el Poder
+Legislativo. En el ámbito cultural aseguramos que la difusión digital amplia
+de la cultura para toda la población exige el uso de licenciamiento libre de
+las obras, por lo que es necesario promover otras formas de retribución a las
+y los artistas, por ejemplo a partir del mérito logrado por la cantidad de
+obras que se deriven de la suya o por vía de la retribución directa al creador
+o creadora, por parte de quienes se benefician de su obra. Hemos logrado
+hacer uso de diversos modelos de participación colaborativa originados por
+las comunidades de software libre no sólo en el terreno cultural, también se
+desarrollan proyectos, cada vez en mayor número, para utilizar las
+plataformas informáticas para promover la participación social en sus
+comunidades, desarrollando esquemas de colaboración y democracia que
+involucra el aprovechamiento no sólo del software libre, sino también del
+modelo que lo origina. Al tiempo que se construyen herramientas para una
+interlocución distinta entre ciudadanía e instituciones, como las
+denominadas redes sociales, es necesario que el Congreso contribuya para
+que los diversos actores del Software Libre puedan incidir en la conformación
+de la agenda digital nacional.
+7.a La sociedad es actualmente la más perjudicada debido al efecto
+tan grande que hay por la
+brecha digital ya que actualmente el costo de
+los equipos de cómputo y por el acceso a los servicios tecnológicos como
+internet son relativamente altos; la posibilidad de adquirir
+equipos con
+plataformas abiertas reduce hasta en un 30% el costo además de que se
+eliminan
+cuestiones de uso de aplicaciones sin licencia.
+7.b En cualquier distribución de plataforma de Software Libre es posible
+encontrar en
+Internet
+de
+manera
+sencilla
+cualquier
+aplicación
+generalmente sin costo y de manera sencilla
+dado
+que
+cuentan
+con
+herramientas de instalación y actualización absolutamente intuitiva.
+7.c La actual brecha digital puede subsanarse si el estado declara el
+acceso a internet como un bien público, permitiendo el acceso a internet de
+formas más democráticas, dando por resultado el mejor acceso a
+conocimientos, libros y educación de todos los ciudadanos, permitiendo que
+el Software Libre sea a su vez más utilizado, permitiendo la mejora
+educativa y económica de la sociedad en general.
+También es importante que los y las legisladores consideren en las diversas
+decisiones que toman, que la denominada sociedad de la información está
+viéndose reflejada en los cambios que se suceden en todas las esferas de la
+vida en la sociedad y que lo que deben garantizar en sus decisiones de
+carácter legislativo es el derecho de todos al conocimiento, por lo que éste
+debe ser libre.
+
+(8) Requerimos un estudio legislativo de las licitaciones gubernamentales
+para encontrar aquellos patrones de exclusión que afectan a la industria del
+software libre, así como la constitución de una mesa de seguimiento en el
+Senado, comisión especial que dé continuidad a este esfuerzo y madure las
+condiciones para la elaboración de propuestas específicas dirigidas a hacia
+una Reforma Integral del Software Libre en México.
+México, D.F., 2 de junio de 2011 Senado de la República Auditorio Sebastián
+Lerdo de Tejada,
+Donceles #14
+
+
