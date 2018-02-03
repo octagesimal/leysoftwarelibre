@@ -1,0 +1,288 @@
+
+H. CONGRESO DEL ESTADO DE CHIHUAHUA
+P R E S E N T E .-
+
+ Los suscritos, en nuestro carácter de Diputados a la Sexagésima Quinta Legislatura del H. Congreso del Estado e integrantes del Grupo Parlamentario de MORENA, con fundamento en lo dispuesto por los artículos 64 fracciones I y II; y 68 fracción I, de la Constitución Política del Estado, así como los artículos 167 fracción I y 170 de la Ley Orgánica del Poder Legislativo, acudimos a esta Soberanía a presentar Iniciativa con carácter de Decreto por el que se expide la Ley de Software Libre y Código Abierto del Estado de Chihuahua.
+
+ Lo anterior, con sustento en la siguiente:
+
+ E X P O S I C I Ó N D E M O T I V O S
+
+ La complejidad del mundo en que vivimos exige permanentemente de los países una constante revisión y adaptación de sus marcos institucionales logrando de esta forma estar al compás de los nuevos retos que nos impone el sorprendente desarrollo tecnológico.
+
+ El descubrimiento de nuevas tecnologías informáticas, entre ellas la del Software libre, se ha configurado con el devenir del tiempo en un instrumento idóneo para asegurar de una manera más idónea la protección de la información con la que el Estado cuenta.
+
+ De esta forma la tecnología cumple su función facilitadora de las diferentes y múltiples actividades humanas, siendo una de ellas, el manejo de información reservada en los archivos del Estado.
+
+ Según la Constitución Política de los Estados Unidos Mexicanos en su artículo 6°, “El derecho a la información será garantizado por el Estado…
+
+ A. ...
+
+ I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad….
+
+ II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes.
+
+ III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos.”
+
+ En este orden de ideas, es evidente la preocupación de nuestra carta fundamental de establecer seguros institucionales que por un lado protejan la libertad de los ciudadanos para acceder a información pública y por el otro, la de guardar la debida reserva de información que afecten la intimidad personal y familiar, así como razones de seguridad nacional.
+
+ La garantía de estos derechos consagrados en nuestra Constitución, no pasa únicamente por la buena voluntad del Estado para el cumplimiento normativo de la Constitución, sino también por el empleo de tecnologías que en unos casos coadyuvan y en otros no a una efectiva protección de dichos derechos ciudadanos.
+
+ Es en este contexto, imperioso para el Estado incorporar aquellas tecnologías que ayudan a reforzar el ejercicio del derecho de la información de los ciudadanos y su debida reserva en los casos que lo ameriten. Sabemos, que las nuevas tecnologías de la información, están siendo usadas para "reinventar" las tareas gubernamentales, ya que su utilización es considerada como una de las claves para hacer más efectivo, eficaz, de mayor calidad y con ello, democratizar las funciones y tareas de los gobiernos. Los vertiginosos adelantos tecnológicos, no sólo han hecho posible los cambios en la sociedad, también brindan la posibilidad a los gobiernos de transformarse.
+
+ La utilización del Software Libre en todas las instituciones del Estado, apunta en este sentido. Básicamente podemos decir que los principios elementales que animan la presente Iniciativa se vinculan a garantías básicas del Estado democrático de derecho y lo podemos resumir en los siguientes:
+
+ 1. Libre acceso del ciudadano a la información pública
+
+ 2. Perennidad de los datos públicos
+
+ 3. Seguridad del Estado y de los ciudadanos
+
+ Para garantizar el libre acceso de los ciudadanos a la información pública, resulta indispensable que la codificación de los datos no esté ligada a un ´único proveedor. El uso de formatos estándar y abiertos permite garantizar este libre acceso, logrando si fuera necesaria la creación de software compatible.
+
+ Para garantizar la perennidad de los datos públicos, es indispensable que la utilización y el mantenimiento del software no dependan de la buena voluntad de los proveedores, ni de las condiciones monopólicas, impuestas por éstos. Se precisan sistemas cuya evolución pueda ser garantizada gracias a la disponibilidad del código fuente.
+
+ Para garantizar del Estado, resulta indispensable contar con sistemas desprovistos de elementos que permitan el control a distancia o la transmisión no deseada de información a terceros. Por lo tanto, se requieren sistemas cuyo código fuente sea libremente accesible al público para permitir su examen por el propio Estado, los ciudadanos y un gran número de expertos independientes en el mundo.
+
+Esta propuesta aporta mayor seguridad, pues el conocimiento del código fuente eliminará el creciente número de programas con código espía.
+
+De igual forma, la iniciativa de ley potencia la seguridad de los ciudadanos, tanto en su condición de titulares legítimos de la información manejada por el Estado, cuanto en su condición de consumidores. En este último caso, permite el surgimiento de una oferta extensa de software libre desprovisto de potencial código espía susceptible de poner en riesgo la vida privada y las libertades individuales.
+
+El Estado en aras de mejorar la calidad de la gestión pública en su papel de custodio y administrador de información privada, establecería las condiciones en que los organismos estatales adquirirán software en el futuro, es decir de un modo compatible con las garantías constitucionales y principios básicos antes desarrollados.
+El proyecto expresa claramente que para ser aceptable para el Estado un programa o software cualquiera, no basta con que el programa sea técnicamente suficiente para llevar a cabo una tarea, sino que además las condiciones de contratación deben satisfacer una serie de requisitos en materia de licencia, sin los cuales el Estado no puede garantizar al ciudadano el procesamiento adecuado de sus datos, velando por su integridad, confidencialidad y accesibilidad a lo largo del tiempo, aspectos críticos para su desempeño.
+
+El Estado establecerá condiciones para el empleo del software por parte de las instituciones estatales, sin inmiscuirse de modo alguno en las transacciones del sector privado.
+
+El proyecto, así mismo garantiza el principio de igualdad ante la ley, pues ninguna persona natural y jurídica estará excluida del derecho de proveer estos bienes, en las condiciones fijadas por el Estado.
+
+Adicionalmente a estas ventajas podemos resaltar una serie de beneficios que como consecuencia de esta medida se empezaría a manifestar inmediatamente después de ser ejecutadas.
+
+En primer lugar están las oportunidades de trabajo para programadores locales, lo que se traduce en un gran incentivo para potenciar la creatividad humana. Al emplear el software libre los profesionales en el ramo, pueden analizar a fondo los problemas y mejorar los desarrollos en todos los casos. Constituye un campo ideal para aplicar creatividad, aspecto en el que los jóvenes chihuahuenses alcanzarían buenos desempeños.
+
+Por otro lado, mediante el software libre se elimina el uso de software ilegal que campea en algunas instituciones del Estado. Si bien, es correcto decir, que no es necesaria la adopción de software libre para cumplir con la ley, su empleo generalizado reduciría drásticamente las situaciones irregulares y obraría como vector de contagio legal, tanto dentro del Estado como en el ámbito privado.
+
+Son muchos los países que están reconociendo formalmente el uso exclusivo del Software libre en el sector gubernamental.
+
+Entre los países mencionados, tenemos a Francia donde está en discusión una norma legal sobre el tema. También Brasil, su estado de Recife ha decidido su adopción. La República Popular China ha adoptado desde hace varios años el software libre como una política de Estado. Al igual que en los países escandinavos. En los EE.UU., la NASA y la US NAVY, entre muchas otras organizaciones, han adoptado software libre para alguna de sus necesidades, entre otras iniciativas gubernamentales y del sector privado.
+
+Por lo que respecta a nuestro país, el gobierno de la ciudad de México, ya ha iniciado una importante migración para la adopción de software libre en forma generalizada. Y el Estado de Oaxaca ha sido el primero en crear y publicar una Ley de Software Libre y Código Abierto.
+
+La presente iniciativa no genera gasto alguno al erario estatal. Eso sí, para el cumplimiento de sus fines será necesario producir una reasignación del gasto gubernamental cuya incidencia se circunscribe a lo efectivamente gastado por cada organismo gubernamental en los procesos de contrataciones y licitaciones del Estado para la adquisición de programas informáticos.
+
+Si bien es cierto, el software libre con relación al software propietario representa un ahorro sustancial a la economía del Estado, no es el punto principal de apoyo. Como señalamos antes, su ventaja comparativa se focaliza en los seguros tecnológicos que el programa otorga a la información con la que cuenta el Estado, información que en muchos casos es de carácter reservada.
+
+En este sentido una mejor protección de los derechos ciudadanos constituye un beneficio inconmensurable que debe ser reconocido desde el punto de vista del análisis costo beneficio.
+
+Podemos resumir los beneficios del proyecto en los siguientes tópicos:
+
+• Seguridad del Estado.
+El Estado para cumplir sus funciones debe almacenar y procesar información relativa a los ciudadanos. La relación entre el individuo y el Estado depende de la privacidad e integridad de estos datos, que deben ser adecuadamente resguardados contra tres riesgos específicos: riesgo de filtración, riesgo de imposibilidad de acceso, y riesgo de manipulación.
+
+Con el software libre estos riesgos se atenúan considerablemente. Permite al usuario la inspección completa y exhaustiva del mecanismo mediante el cual procesa los datos. El hecho de que el programa de software libre permite la inspección del programa es una excelente medida de seguridad, ya que al estar expuestos los mecanismos, estos están constantemente a la vista de profesionales capacitados, con lo que se vuelve inmensamente más difícil ocultar funciones maliciosas, aun si el usuario final no se toma el trabajo de buscarlas ´el mismo.
+
+• Independencia tecnológica.
+Con el software propietario no hay libertad de contratación en lo que se refiere a ampliaciones y correcciones del sistema que utiliza, se produce una dependencia tecnológica en la que el proveedor está en condiciones de dictar unilateralmente términos, plazos y precios.
+
+Con el Software libre se permite al usuario el control, corrección y modificación del programa para adecuarlo a sus necesidades. Esta libertad no está destinada solamente a los programadores Si bien son éstos los que pueden capitalizarla en primera mano, los usuarios también se benefician enormemente, porque de esta manera pueden contratar a cualquier programador (no necesariamente al autor original) para que corrija errores o añada funcionalidad.
+
+• El desarrollo local.
+En el caso del software propietario el usuario está habilitado para ejecutar un programa, pero no para inspeccionarlo ni modificarlo, entonces no pude aprender de él, se vuelve dependiente de una tecnología que no sólo no comprende sino que le está expresamente vedada. Los profesionales de su entorno, que podrían ayudarlo a alcanzar sus metas, están igualmente limitados: como el funcionamiento del programa es secreto, y su inspección está prohibida, no es posible arreglarlo. De esa manera los profesionales locales ven sus posibilidades de ofrecer valor agregado cada vez más limitadas, y sus horizontes laborales se estrechan junto con sus oportunidades de obtener más aprendizaje. Con el software libre se neutraliza enormemente estas desventajas del software propietario.
+
+• El costo del software
+Se reduce considerablemente al ser libre pues no hay necesidad de estar solicitando sistemáticamente las licencias del caso para continuar con la utilización del programa. Esto sucede con el software propietario. Es importante para el usuario poder mantener estos costos bajo control, pues de lo contrario puede llegar a verse impedido de llevar a cabo sus metas, a fuerza de erogaciones no planificadas. He aquí una vez más la dependencia tecnológica que ayuda a enfrentar el software libre.
+
+
+• Mayores fuentes de trabajo
+Con el software libre se libera mano de obra existente en el país que estaba enfrascada como consecuencia de la dependencia tecnológica del software propietario. Ahora se asignarían recursos de los usuarios (en esta caso las dependencias del Estado) para mantenimiento y soporte informático del software libre.
+
+
+• Fomento de la creatividad e iniciativa empresarial.
+
+
+El gran costo que supone el cambio de software propietario a software libre se circunscribe al proceso migratorio. Si bien es cierto que el proceso migratorio involucra costos en relevamientos, toma de decisiones para implementar los nuevos sistemas, mano de obra para implementar el cambio, conversión de datos, reentrenamiento del personal, y eventualmente gastos en licencias y/o desarrollo y tiempo; no es menos cierto que todos estos costos son fijos y se pagan por única vez en cambio, el software propietario en funcionamiento ahora, también tiene sus costos fijos que fueron pagados y no pueden ser recuperados. Pero además de estos costos hay otros cotos involucrados en el software propietario: actualizaciones permanentes (a veces acentuada por u monopolio auto sostenido) y sobre todo el inmenso precio que tiene para el estado la pérdida de las libertades que le garantizan el control de su propia información. Estos costos son permanentes y crecientes a lo largo del tiempo y tarde o temprano superan a los costos fijos de realizar una migración.
+
+En fin, son mayores los beneficios a los costos que el proceso de migración supone.
+
+La presente Iniciativa busca hacernos recordar que el Estado, puede jugar un papel en la economía, preservando el interés estatal, defendiendo al mismo tiempo la economía de mercado. Este proyecto de Ley permitiría que Chihuahua se erija como defensor de las libertades dentro de las nuevas tecnologías de la información y las comunicaciones.
+
+En mérito a lo anteriormente expuesto, sometemos ante este H. Cuerpo Colegiado el siguiente Proyecto de:
+
+DECRETO
+
+
+Artículo Único.- Se crea la Ley de Software Libre y Código Abierto del Estado de Chihuahua.
+
+
+LEY DE SOFTWARE LIBRE Y CÓDIGO ABIERTO DEL ESTADO DE CHIHUAHUA
+
+CAPÍTULO I
+DISPOSICIONES GENERALES
+
+Artículo 1. La presente Ley es de orden público, interés social y de observancia obligatoria en el territorio del Estado de Chihuahua; y tiene los siguientes objetivos:
+
+I. Establecer las bases para la creación y desarrollo de Software Libre y de Código Abierto para beneficio de los sectores público, privado, educativo y social en el Estado de Chihuahua;
+
+II. Establecer las acciones que hagan posible un mayor desarrollo del Software Libre y de Código Abierto entre los sectores público, privado y social en el Estado, a partir de los avances registrados en la materia;
+
+III. Fomentar, en los sectores público, privado y social, la utilización del Software Libre y de Código Abierto; y
+
+IV. Definir las estrategias adecuadas para la difusión, a la población en general, del Software Libre y de Código Abierto.
+
+
+
+Artículo 2. Se establecen como autoridades encargadas de la aplicación y supervisión de esta Ley a las siguientes:
+
+I. El Poder Ejecutivo del Estado de Chihuahua;
+
+II. El H. Congreso del Estado de Chihuahua;
+
+III. El Tribunal Superior de Justicia del Estado de Chihuahua;
+
+IV. El Consejo General de Ciencia, Tecnología e Innovación del Estado de Chihuahua;
+
+V. Los Organismos con Autonomía Constitucional;
+
+VI. Los Organismos Descentralizados y Desconcentrados de la Administración Pública Estatal;
+
+VII. Los Presidentes de los Ayuntamientos del Estado; y
+
+VIII. Los titulares de los Organismos Públicos Descentralizados y Desconcentrados de la Administración Pública Municipal.
+
+En cada una de las instituciones señaladas en el párrafo anterior, las autoridades ejercerán dichas funciones por conducto de la Dirección que tenga a su cargo, la administración de los recursos humanos, materiales y financieros.
+
+
+Artículo 3. Para los efectos de la aplicación de esta Ley, se entiende por:
+
+I. Código Fuente: El conjunto completo de instrucciones y archivos digitales originales creados o modificados, más todos los archivos digitales de soporte, como tablas de datos, imágenes, especificaciones, documentación, y todo otro elemento que sea necesario para producir un programa ejecutable a partir de ellos;
+
+II. Consejo General: El Consejo General de Ciencia, Tecnología e Innovación del Estado de Chihuahua;
+
+III. Laboratorio: El Laboratorio de Software Libre y de Código Abierto del Consejo Chihuahuense de Ciencia, Tecnología e Innovación;
+
+IV. Ley: Ley de Software Libre y de Código Abierto del Estado de Chihuahua; y
+
+V. Software Libre y de Código Abierto: Los programas de cómputo cuya licencia garantizan al usuario final el acceso al código fuente del programa y lo autoriza a ejecutarlo con cualquier propósito, modificarlo y redistribuir copias tanto del programa original como de sus modificaciones, en las mismas condiciones de licenciamiento acordadas al programa original.
+
+
+
+CAPÍTULO II
+DE LA CREACIÓN DE SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+
+Artículo 4. A fin de promover la creación y desarrollo Software Libre y de Código Abierto para beneficio de los chihuahuenses, el Consejo General fomentará las actividades conducentes para detectar las necesidades de creación de Software Libre y de Código Abierto en los sectores público, privado, educativo y social del Estado.
+
+
+Artículo 5. El Laboratorio, convocará anualmente a la sociedad civil y realizará un diagnóstico de necesidades de creación de Software Libre y de Código Abierto en los sectores público, privado, educativo y social, y lo someterá a consideración de la Junta Directiva del Consejo General, a través de un Programa Estatal para la Creación, Desarrollo, Utilización y Difusión del Software Libre y de Código Abierto.
+
+En el Programa señalado en el párrafo anterior, deberá considerarse lo que establezcan, en esa materia, los Planes Nacional y Estatal de Desarrollo y demás disposiciones jurídicas aplicables.
+
+
+Artículo 6. El Laboratorio, en coordinación con las instituciones de educación correspondientes, fomentará en los estudiantes chihuahuenses de nivel medio superior y superior, el impulso de acciones específicas tendientes a la creación y desarrollo de Software Libre y de Código Abierto.
+
+
+CAPÍTULO III
+DEL DESARROLLO DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+
+Artículo 7. Mediante la coordinación y, en su caso, apoyo del Laboratorio, las autoridades encargadas de la aplicación de esta Ley llevarán a cabo las acciones procedentes para desarrollar los proyectos de Software Libre y de Código Abierto, que permitan lograr mayor eficiencia en sus procesos informáticos internos, el ahorro progresivo de recursos y el incremento en la productividad de los servidores públicos adscritos a sus dependencias.
+
+Artículo 8. Para dar cumplimiento al artículo anterior, el Consejo General, a través del Laboratorio, convocará a las y los chihuahuenses, así como a las organizaciones de la sociedad civil, para que desarrollen a través de proyectos, Software Libre y de Código Abierto.
+
+Artículo 9. El laboratorio, contribuirá al desarrollo productivo del Estado, a través de la prestación de servicios para el desarrollo de aplicaciones que serán utilizadas para el sector privado de prestaciones de servicios y venta de bienes.
+
+
+Artículo 10. Las entidades a que se refiere el artículo 2°, mantendrán comunicación permanente con el Laboratorio, a efecto de que pueda brindarles asesoría en relación a las actividades que deban realizar para llevar a cabo procesos tendientes al desarrollo de Software Libre y de Código Abierto, respecto de las atribuciones que por ley tengan conferidas.
+
+El Laboratorio, de manera coordinada con la entidad solicitante, procurara que exista uniformidad en relación a procesos informáticos similares que se lleven a cabo en las diferentes dependencias o en relación a actividades análogas que sean llevadas a cabo por diferentes instituciones.
+
+
+CAPÍTULO IV
+DEL FOMENTO PARA LA UTILIZACIÓN DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+Artículo 11. Las autoridades referidas en el artículo 2°; tendrán la obligación de que todos los equipos de cómputo que se adquieran, a partir del inicio de vigencia de la presente Ley, utilicen, exclusivamente, Software Libre y de Código Abierto, con excepción de los casos en que, por sus propias características, deban utilizar software privativo.
+
+Los casos de excepción serán debidamente analizados y, en su caso, autorizados por la Junta Directiva del Consejo General.
+
+
+Artículo 12. El Laboratorio promoverá de forma coordinada con los sujetos a que se refiere el artículo 2° de esta Ley, para que gradualmente adquieran y utilicen Software de ejecución libre en sus equipos de cómputo, con excepción en los casos de que, por sus propias características, deban utilizar software privativo.
+
+
+Artículo 13. Las autoridades responsables de la aplicación de esta Ley estarán obligadas a capacitar, a la totalidad de su personal adscrito que utilice equipos de cómputo, para que dentro de los doce meses posteriores al inicio de vigencia de esta Ley estén en aptitud de utilizar, en sus actividades institucionales, Software Libre y de Código Abierto.
+
+
+Artículo 14. El Titular del Poder Ejecutivo del Estado, a través del Secretario de Educación y Deporte, coordinará acciones con el Laboratorio, para llevar que en las instituciones de educación pública, los estudiantes desarrollen competencias en la creación, desarrollo y utilización del Software Libre y de Código Abierto.
+
+Respecto de las instituciones educativas privadas y sociales, las autoridades señaladas en el párrafo anterior realizarán las actividades necesarias tendientes a promover la utilización del Software Libre y de Código Abierto.
+
+
+Artículo 15. Las autoridades a que se refiere esta Ley impulsarán la utilización de formatos abiertos para el intercambio y difusión de información tanto en su funcionamiento interno como hacia el exterior. Igualmente fomentarán la utilización de dichos formatos en los sectores privado y social.
+
+
+CAPÍTULO V
+DE LA DIFUSIÓN DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+Artículo 16. El Consejo General, a través del Laboratorio, realizará un programa permanente de difusión en el que destacará las ventajas y beneficios de la utilización del Software Libre y de Código Abierto.
+
+
+Artículo 17. El Consejo General, por medio del Laboratorio, realizará, anualmente, un Encuentro para el Desarrollo de Software Libre y de Código Abierto, en el que difundirán los logros y alcances que se hayan obtenido en este rubro. Dicho Encuentro se realizará con estrictas medidas de austeridad presupuestaria.
+
+
+Artículo 18. El Consejo General, por conducto del Laboratorio, editará un órgano de difusión, preferentemente en formato electrónico, en el que se den a conocer entre los sectores público, privado y social, los avances que se hayan tenido en materia de creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto.
+
+En el referido órgano de difusión, podrán publicarse otros documentos relacionados con el tema del Software Libre y de Código Abierto.
+
+
+
+CAPÍTULO VI
+DEL LABORATORIO
+
+Artículo 19. Para el cumplimiento de esta Ley, el Consejo General realizará sus funciones a través del Laboratorio.
+
+Su domicilio, organización y funcionamiento serán los que se establezcan en su Reglamento correspondiente.
+
+
+Artículo 20. El Laboratorio ejercerá las atribuciones siguientes:
+
+I. Promover la creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto en los sectores público, privado, educativo y social del Estado;
+
+II. Ser la instancia coordinadora de los esfuerzos que se lleven a cabo en los sectores público, privado, educativo y social del Estado de Chihuahua, en materia de creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto;
+
+III. Realizar y someter a consideración de la Junta Directiva del Consejo General, el Proyecto de Plan Estatal de Creación, Desarrollo, Utilización y Difusión del Software Libre y de Código Abierto en los sectores público, privado, educativo y social del Estado de Chihuahua;
+
+IV. Fomentar, en coordinación con las instituciones de educación superior del Estado, en los estudiantes de licenciatura, especialización, maestría y doctorado, el impulso de acciones específicas tendientes a la creación y desarrollo de Software Libre y de Código Abierto;
+
+V. Llevar a cabo las acciones procedentes para desarrollar los proyectos de Software Libre y de Código Abierto, que permitan lograr mayor eficiencia en los procesos informáticos internos, el ahorro progresivo de recursos y el incremento en la productividad de los servidores públicos adscritos a las dependencias de la administración pública;
+
+VI. Brindar asesoría en relación a las actividades que deban realizarse en los sectores público, privado, educativo y social, para llevar a cabo procesos tendientes al desarrollo de Software Libre y de Código Abierto;
+
+VII. Emitir opinión respecto de los casos de excepción en la utilización de Software Libre y de Código Abierto;
+
+VIII. Brindar capacitación a los sectores público, privado, educativo y social en materia de creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto;
+
+IX. Realizar eventos de divulgación sobre Software Libre y de Código Abierto, así como editar un órgano de difusión en el que se den a conocer entre los sectores público, privado, educativo y social, los avances que se hayan tenido en materia de creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto;
+
+X. Suscribir, convenios con dependencias, instituciones y organizaciones, con objetivos afines, a efecto de fomentar la creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto, y
+
+XI. Las que se establezcan en esta Ley y demás disposiciones jurídicas aplicables.
+
+
+TRANSITORIOS
+
+PRIMERO. El presente Decreto entrará en vigor a partir del día siguiente de su publicación en el Periódico Oficial del Estado.
+
+SEGUNDO. Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO. Las autoridades a que se refiere el artículo segundo de esta Ley, llevarán a cabo las acciones necesarias, a efecto de que, a más tardar, en el año 2020, al menos, el 60% de los equipos de cómputo asignados a las mismas utilicen Software Libre y de Código Abierto.
+
+CUARTO. El Titular del Poder Ejecutivo del Estado propondrá y la Legislatura del Estado autorizará, en los Presupuestos de Egresos correspondientes, los recursos financieros necesarios para que, en los plazos previstos en esta Ley, se cumplan las metas determinadas en la misma. 
+
+ Dado en el Salón de Sesiones del Palacio del Poder Legislativo, en la Ciudad de Chihuahua, Chihuahua., a los treinta y un días de mes de octubre del año dos mil diecisiete. 
+
+ATENTAMENTE
+
+
+DIP. LETICIA ORTEGA MÁYNEZ
+
+ DIP. PEDRO TORRES ESTRADA
+
+
