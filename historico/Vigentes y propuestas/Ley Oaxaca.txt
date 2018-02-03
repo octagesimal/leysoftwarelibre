@@ -1,0 +1,368 @@
+H. Congreso del Estado Libre y Soberano de Oaxaca
+LXIII Legislatura Constitucional
+Centro de Información e Investigaciones Legislativas (CIILCEO)
+Unidad de Investigaciones Legislativas
+
+PODER
+LEGISLATIVO
+
+DECRETO No 593
+
+Texto Original: Decreto número 593, aprobado por la LXIII Legislatura el 15 de abril del 2017 y publicado
+en el Periódico Oficial Extra del 12 de mayo del 2017.
+
+LA SEXAGÉSIMA TERCERA LEGISLATURA CONSTITUCIONAL DEL ESTADO
+LIBRE Y SOBERANO DE OAXACA,
+
+DECRETA:
+ARTÍCULO ÚNICO.- La LXIII Legislatura del Honorable Congreso del Estado, crea la
+LEY DE SOFTWARE LIBRE Y CÓDIGO ABIERTO DEL ESTADO DE OAXACA, para
+quedar como sigue:
+
+LEY DE SOFTWARE LIBRE Y CÓDIGO ABIERTO DEL ESTADO DE OAXACA
+CAPÍTULO I
+DISPOSICIONES GENERALES
+Artículo 1.
+La presente Ley es de orden público, interés social y de observancia
+general en el Estado de Oaxaca, y tiene los siguientes objetivos:
+I.
+
+II.
+III.
+
+Establecer las bases para la creación y desarrollo de Software Libre y de Código
+Abierto para beneficio de los sectores público, privado, educativo y social en el
+Estado de Oaxaca;
+Fomentar en los sectores público, privado y social, la utilización del Software Libre
+y de Código Abierto; y
+Proponer las estrategias para que la población en general, conozca y utilice
+Software Libre y de Código Abierto.
+
+Artículo 2.
+I.
+II.
+III.
+
+Corresponde la aplicación de esta Ley a los siguientes:
+
+Al titular del Poder Ejecutivo;
+Al Presidente de la Junta de Coordinación Política del Poder Legislativo;
+Al Presidente del Poder Judicial;
+
+Decreto 593
+
+Página 1
+
+H. Congreso del Estado Libre y Soberano de Oaxaca
+LXIII Legislatura Constitucional
+Centro de Información e Investigaciones Legislativas (CIILCEO)
+Unidad de Investigaciones Legislativas
+
+PODER
+LEGISLATIVO
+
+IV.
+V.
+VI.
+VII.
+VIII.
+
+Al Consejo Oaxaqueño de Ciencia y Tecnología e Innovación;
+Los Organismos con Autonomía Constitucional;
+Los Organismos Descentralizados y Desconcentrados de la Administración
+Pública Estatal;
+A los Presidentes de los Ayuntamientos del Estado; y
+A los titulares de los Organismos Públicos Descentralizados y Desconcentrados
+de la Administración Pública Municipal.
+
+Artículo 3.
+
+Para los efectos de la aplicación de esta Ley se entenderá lo siguiente:
+
+I.
+
+COCITeI: Al Consejo Oaxaqueño de Ciencia, Tecnología e Innovación;
+
+II.
+
+Código Fuente: El conjunto completo de instrucciones y archivos digitales
+originales creados o modificados, más todos los archivos digitales de soporte,
+como tablas de datos, imágenes, especificaciones, documentación, y todo otro
+elemento que sea necesario para producir un programa ejecutable a partir de ellos;
+
+III.
+
+LABSOL: El Laboratorio de Software Libre y de Código Abierto dependiente del
+Consejo Oaxaqueño de Ciencia, Tecnología e Innovación;
+
+IV.
+
+Ley: La presente Ley de Fomento a la Creación, Desarrollo, Utilización y Difusión
+de Software Libre y Código Abierto del Estado de Oaxaca; y
+
+V.
+
+Software Libre y Código Abierto: Los programas de cómputo cuya licencia
+garantizan al usuario final el acceso al código fuente del programa y lo autoriza a
+ejecutarlo con cualquier propósito, modificarlo y redistribuir copias tanto del
+programa original como de sus modificaciones, en las mismas condiciones de
+licenciamiento acordadas al programa original.
+CAPÍTULO II
+DE LA CREACIÓN DE SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+Artículo 4.
+A fin de promover la creación y desarrollo de Software Libre y de Código
+Abierto para beneficio de los oaxaqueños, el COCITeI fomentará las actividades
+conducentes para detectar las necesidades de creación de Software Libre y de Código
+Abierto en los sectores público, privado, educativo y social del Estado de Oaxaca.
+Decreto 593
+
+Página 2
+
+H. Congreso del Estado Libre y Soberano de Oaxaca
+LXIII Legislatura Constitucional
+Centro de Información e Investigaciones Legislativas (CIILCEO)
+Unidad de Investigaciones Legislativas
+
+PODER
+LEGISLATIVO
+
+Artículo 5.
+El LABSOL anualmente convocará a la sociedad civil y realizará un
+diagnóstico de necesidades de creación de Software Libre y de Código Abierto en los
+sectores público, privado, educativo y social, y lo someterá a consideración de la Junta
+Directiva del COCITeI, a través de un Programa Estatal para la Creación, Desarrollo,
+Utilización y Difusión del Software Libre y de Código Abierto.
+Artículo 6.
+En el Programa señalado en el artículo anterior, deberá considerarse lo que
+establezcan en esa materia, los Planes Nacional y Estatal de Desarrollo y demás
+disposiciones jurídicas aplicables.
+Artículo 7.
+El LABSOL en coordinación con las instituciones de educación superior del
+Estado, fomentará en los estudiantes de educación media superior, licenciatura,
+especialización, maestría y doctorado, el impulso de acciones específicas tendientes a la
+creación y desarrollo de Software Libre y de Código Abierto.
+CAPÍTULO III
+DEL DESARROLLO DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+Artículo 8.
+Mediante la coordinación y, en su caso, apoyo del LABSOL, las autoridades
+encargadas de la aplicación de esta Ley procurarán las acciones procedentes para
+desarrollar proyectos de Software Libre y de Código Abierto, que permitan lograr mayor
+eficiencia en sus procesos informáticos internos, el ahorro progresivo de recursos y el
+incremento en la productividad de los servidores públicos adscritos a sus dependencias.
+Artículo 9.
+Para dar cumplimiento al artículo anterior, el COCITeI a través de LABSOL,
+convocará a las y los oaxaqueños, así como a las organizaciones de la sociedad civil
+para que desarrollen a través de proyectos, Software Libre y de Código Abierto.
+Artículo 10.
+El LABSOL, contribuirá al desarrollo productivo de Oaxaca, a través de la
+prestación de servicios para el desarrollo de aplicaciones que serán utilizadas para el
+sector privado de prestaciones de servicios y venta de bienes.
+
+CAPÍTULO IV
+DE LA UTILIZACIÓN DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+Decreto 593
+
+Página 3
+
+H. Congreso del Estado Libre y Soberano de Oaxaca
+LXIII Legislatura Constitucional
+Centro de Información e Investigaciones Legislativas (CIILCEO)
+Unidad de Investigaciones Legislativas
+
+PODER
+LEGISLATIVO
+
+Artículo 11.
+Las autoridades referidas en el artículo 2 de esta Ley, en los equipos de
+cómputo que se adquieran con recursos públicos, deberán utilizar Software Libre y de
+Código Abierto, con excepción de los casos en que por sus propias características deban
+utilizar software de empresas privadas.
+Los casos de excepción serán debidamente analizados y, en su caso, autorizados por el
+LABSOL.
+Para el cumplimiento de lo señalado en los párrafos anteriores, el COCITeI a través del
+LABSOL deberá distribuir software gratuito libre de ejecución libre.
+Artículo 12.
+El LABSOL promoverá de forma coordinada con los sujetos a que se refiere
+el artículo 2 de esta Ley, para que gradualmente adquieran y utilicen Software de
+ejecución libre en sus equipos de cómputo, con excepción de los casos en que, por sus
+propias características, deban utilizar software privativo.
+CAPÍTULO V
+DE LA UTILIZACIÓN DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO EN LAS
+INSTITUCIONES DE EDUCACIÓN PÚBLICA DEL ESTADO DE OAXACA
+Artículo 13.
+El Titular del Poder Ejecutivo del Estado, a través del Instituto Estatal de
+Educación Pública de Oaxaca y de la Coordinación General de Educación Media
+Superior, Ciencia y Tecnología, coordinarán acciones con el LABSOL con el objeto de
+que en las instituciones de educación pública básica, media superior y superior, los
+estudiantes desarrollen competencias en la creación, desarrollo y utilización de Software
+Libre y de Código Abierto.
+Artículo 14.
+Las autoridades a que se refiere esta Ley impulsarán la utilización de
+formatos abiertos para el intercambio y difusión de información tanto en su
+funcionamiento interno como hacia el exterior. Igualmente fomentarán la utilización de
+dichos formatos en los sectores privado y social.
+CAPÍTULO VI
+DE LA DIFUSIÓN DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+Decreto 593
+
+Página 4
+
+H. Congreso del Estado Libre y Soberano de Oaxaca
+LXIII Legislatura Constitucional
+Centro de Información e Investigaciones Legislativas (CIILCEO)
+Unidad de Investigaciones Legislativas
+
+PODER
+LEGISLATIVO
+
+Artículo 15.
+El COCITeI, a través del LABSOL, promoverá un programa permanente de
+difusión en el que destacará las ventajas y beneficios de la utilización del Software Libre
+y de Código Abierto.
+Artículo 16.
+El COCITeI, por medio del LABSOL, organizará anualmente, un Encuentro
+para el Desarrollo de Software Libre y de Código Abierto, en el que se difundirán los
+logros y alcances en este rubro. Este encuentro deberá realizarse con estrictas medidas
+de austeridad presupuestaria.
+Artículo 17.
+El COCITeI, por conducto del LABSOL, contará con un órgano de difusión,
+preferentemente en formato electrónico, en el que se den a conocer entre los sectores
+público, privado y social, los avances que se hayan tenido en materia de creación,
+desarrollo, utilización y difusión del Software Libre y de Código Abierto.
+En el referido órgano de difusión, podrán publicarse otros documentos relacionados con
+el tema del Software Libre y de Código Abierto.
+
+CAPÍTULO VII
+DEL LABORATORIO DE SOFTWARE LIBRE
+Artículo 18.
+Para el cumplimiento de esta Ley, el COCITeI realizará sus funciones a
+través del LABSOL.
+El domicilio, organización, integración y funcionamiento del LABSOL serán los que se
+establezcan en su Reglamento correspondiente.
+Artículo 19.
+siguientes:
+
+Para el cumplimiento de esta Ley, el COCITeI, tendrá las atribuciones
+
+I.
+
+Promover la creación, desarrollo, utilización y difusión del Software Libre y de
+Código Abierto en los sectores privado, educativo y social del Estado;
+
+II.
+
+Llevar a cabo las acciones procedentes para fomentar los proyectos de Software
+Libre y de Código Abierto, que permitan lograr mayor eficiencia en los procesos
+informáticos internos, el ahorro progresivo de recursos y el incremento en la
+
+Decreto 593
+
+Página 5
+
+H. Congreso del Estado Libre y Soberano de Oaxaca
+LXIII Legislatura Constitucional
+Centro de Información e Investigaciones Legislativas (CIILCEO)
+Unidad de Investigaciones Legislativas
+
+PODER
+LEGISLATIVO
+
+productividad de los servidores públicos adscritos a las dependencias de la
+administración pública y demás señalada en artículo 2 de esta Ley;
+III.
+
+Brindar asesoría en relación a las actividades que deban realizarse en los sectores
+público, privado y social, para llevar a cabo procesos tendientes al desarrollo de
+Software Libre y de Código Abierto;
+
+IV.
+
+Emitir opinión respecto de los casos de excepción en la utilización de software libre
+y de código abierto cuando así se requiera;
+
+V.
+
+Brindar capacitación a los sectores público, privado y educativo en materia de
+creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto;
+
+VI.
+
+Realizar eventos de divulgación sobre Software Libre y de Código Abierto, así
+como editar un órgano de difusión en el que se den a conocer entre los sectores
+público, privado y social, los avances que se hayan tenido en materia de creación,
+desarrollo, utilización y difusión del Software Libre y de Código Abierto;
+
+VII.
+
+Suscribir convenios con dependencias, instituciones y organizaciones, con
+objetivos afines, a efecto de fomentar la creación, desarrollo, utilización y difusión
+del Software Libre y de Código Abierto; y
+
+VIII.
+
+Las que se establezcan en esta Ley, su reglamento y demás disposiciones
+jurídicas aplicables.
+
+TRANSITORIOS:
+
+PRIMERO
+
+El presente Decreto entrará en vigor a partir del día siguiente de su
+publicación en el Periódico Oficial del Gobierno del Estado de Oaxaca.
+
+SEGUNDO
+
+Se crea el Laboratorio de Software Libre y de Código Abierto, que llevará
+por siglas LABSOL, como un organismo dependiente del COCITeI.
+
+Decreto 593
+
+Página 6
+
+H. Congreso del Estado Libre y Soberano de Oaxaca
+LXIII Legislatura Constitucional
+Centro de Información e Investigaciones Legislativas (CIILCEO)
+Unidad de Investigaciones Legislativas
+
+PODER
+LEGISLATIVO
+
+TERCERO
+
+Se autoriza a la Secretaria de Finanzas del Gobierno del Estado de
+Oaxaca a que realice las adecuaciones presupuestales para la operación
+del LABSOL en el ejercicio fiscal 2017.
+
+CUARTO
+
+El titular del Poder Ejecutivo en un plazo no mayor a 50 días naturales
+contados a partir de entrada en vigor de la presente Ley realizará las
+acciones necesarias para la operatividad del LABSOL.
+
+QUINTO
+
+Las autoridades responsables de la aplicación de esta Ley que estén en
+aptitud de utilizar en sus actividades institucionales, Software Libre y de
+Código Abierto de adquisición y ejecución gratuita, deberán realizar las
+acciones oportunas, dentro de plazo de un año posterior al inicio de
+vigencia de esta Ley.
+
+SEXTO
+
+Se derogan todas las disposiciones que se opongan al contenido del
+presente Decreto.
+
+SÉPTIMO
+
+Comuníquese al titular del Poder Ejecutivo del Estado de Oaxaca para su
+promulgación y publicación.
+
+Lo tendrá entendido el Gobernador del Estado y hará que se publique y se cumpla.
+
+Decreto 593
+
+Página 7
+
+
