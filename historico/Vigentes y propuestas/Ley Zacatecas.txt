@@ -1,0 +1,684 @@
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+LEY PARA FOMENTAR LA CREACIÓN, DESARROLLO, UTILIZACIÓN Y DIFUSIÓN DEL SOFTWARE LIBRE Y DE
+CÓDIGO ABIERTO DEL ESTADO DE ZACATECAS
+Ley publicada en el Suplemento 4 del Periódico Oficial del Estado de Zacatecas, el sábado 14 de septiembre de 2013.
+TEXTO VIGENTE A PARTIR DEL 15 DE SEPTIEMBRE DE 2013
+
+LIC. MIGUEL ALEJANDRO ALONSO REYES, Gobernador del Estado de Zacatecas, a sus habitantes hago saber:
+
+Que los DIPUTADOS SECRETARIOS de la Honorable Sexagésima Legislatura del Estado, se han servido dirigirme el
+siguiente:
+DECRETO # 688
+LA HONORABLE SEXAGÉSIMA LEGISLATURA DEL ESTADO LIBRE Y SOBERANO DE ZACATECAS, EN
+NOMBRE DEL PUEBLO, DECRETA
+RESULTANDO PRIMERO.- En sesión del Pleno de esta H. LX Legislatura del Estado correspondiente al día 26 de
+junio del año dos mil trece, se dio lectura a una iniciativa por la que se reforman diversas disposiciones de la Ley de
+Ciencia, Tecnología e Innovación y se expide la Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del
+Software Libre y de Código Abierto, que en ejercicio de las facultades que les confieren los artículos 60 fracción I de la
+Constitución Política del Estado Libre y Soberano de Zacatecas; 46 fracción I de la Ley Orgánica del Poder Legislativo;
+95 fracción I, 96, 97, 98 y demás relativos del Reglamento General del Poder Legislativo, presentaron los Diputados
+Blas Ávalos Mireles y la diputada Ma. de la Luz Domínguez Campos.
+RESULTANDO SEGUNDO.- Mediante memorándum número 1557 de la misma fecha, luego de su primera lectura en
+Sesión Ordinaria, la Iniciativa fue turnada a la Comisión Legislativa de Ciencia y Tecnología para su estudio y dictamen
+correspondiente.
+
+RESULTANDO TERCERO.- La Iniciativa de Decreto se sustentó en la siguiente:
+"EXPOSICIÓN DE MOTIVOS
+En el transcurso de su evolución, la humanidad ha venido creando y desarrollando diferentes herramientas que, en un
+principio, le sirvieron para procurarse los satisfactores indispensables para su propia supervivencia.
+
+Con el paso de los años, los instrumentos que en un principio fueron rudimentarios y elementales se transformaron en
+
+Página 1/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+herramientas que facilitaron, de manera considerable, las múltiples actividades que venía desarrollando la sociedad
+humana para proveerse de alimentos y vivienda.
+
+En los últimos siglos, la humanidad ha cambiado de manera muy importante su forma de vida incluyendo sus procesos
+productivos, de comunicación, etc.
+
+Sin lugar a dudas, la invención y desarrollo de los aparatos y programas informáticos han tenido un papel fundamental
+en este cambio. La utilización de computadoras ha permitido que el hombre, entre otras cosas, mejore sus condiciones
+de vida, optimice sus procesos de producción y se comunique de manera más rápida y eficaz.
+
+Sin embargo, no obstante los grandes logros que se han obtenido en materias como la informática y las
+telecomunicaciones, el desarrollo e innovación se ven limitados, en muchas ocasiones, debido a que hay inventores o
+creadores que no permiten que los usuarios de sus programas informáticos les realicen las modificaciones que
+consideren necesarias con objeto de adecuarlos a sus requerimientos.
+
+Esta limitación influye, de manera fundamental, sobre todos los procesos en los que deben utilizarse los programas
+informáticos que se encuentran protegidos por licencias privativas y que se constituyen en un freno para el desarrollo
+que debiera darse en esa materia.
+
+La posibilidad de que todos los ciudadanos tengan acceso a las tecnologías de información y comunicación es una
+estrategia que debe ser imperante para garantizar la igualdad de acceso al conocimiento y la posibilidad de compartir
+conocimiento como base de una sociedad y economía del conocimiento, esto se define como la llamada Brecha Digital.
+
+Actualmente la formación de los futuros profesionistas en tecnologías de la información, y todas sus líneas
+relacionadas, es tan completa que cuentan con la capacidad de desarrollar proyectos tecnológicos de cualquier tipo,
+una acción importante es lograr la colaboración entre los jóvenes para que puedan .emprender el desarrollo de nuevos
+proyectos que ofrezcan soluciones innovadoras para todos en nuestro Estado.
+
+Página 2/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+A manera de ejemplo, la Diputada y Diputado que iniciamos, consideramos que resulta impostergable que el sistema
+educativo público de Zacatecas desarrolle competencias en sus educandos para la utilización del Software Libre y de
+Código Abierto, a fin de lograr lo siguiente:
+
+&#61656;
+
+Tener garantizado el acceso a miles de programas que serán parte de su formación escolar, lo que no
+
+sería posible si la oferta informática se concentra en las opciones brindadas por unos pocos proveedores de programas
+privativos.
+
+&#61656;
+
+Evitar que el Estado utilice recursos destinados a la educación en beneficio de unas cuantas empresas
+
+vinculadas a intereses de lucro del software privativo, creando un círculo vicioso de dependencia y limitando las
+posibilidades de innovación e independencia intelectual del educando.
+
+&#61656;
+
+Llevar a la práctica una lección cívica, pues el Software Libre y de Código Abierto, en la educación, le
+
+da a los alumnos la posibilidad de cooperar unos con otros y de tener una conducta ética y honrada, ya que enseña a
+los estudiantes a ser ciudadanos de una sociedad libre, capaz, independiente y de cooperación.
+
+&#61656;
+
+Tomar conciencia de que el funcionamiento de los programas privativos son secretos celosamente
+
+guardados, lo que equivale a, por ejemplo, ocultar a un alumno la fórmula de un compuesto en una clase de química. A
+contrario sensu el Software Libre y de Código Abierto permite y anima a los estudiantes a saber cómo funcionan las
+cosas y a aprender tanto como quieran saber.
+
+&#61656;
+
+Demostrar que el uso del Software Libre y de Código Abierto para la educación en Zacatecas no es un
+
+concepto abstracto, ya que se ha venido desarrollando en la práctica, en el caso de la educación destinada a
+preescolar, primaria y secundaria, bajo la dirección del programa denominado "Escuelas Linux". Decenas de escuelas y
+miles de alumnos y profesores usan ya en sus actividades escolares los programas libres, y demuestran, con hechos,
+las ventajas de la implementación de este paradigma como parte de la cultura escolar.
+
+Página 3/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+Ahora bien, un esfuerzo de esta magnitud requiere que exista una entidad u órgano que directamente se haga
+responsable de coordinar todas las actividades que deban desarrollarse al respecto.
+
+El Laboratorio de Software Libre y de Código Abierto en su modelo prioriza la vinculación con las instituciones de
+educación como generadoras del conocimiento, con la formación de profesionistas con un excelente nivel académico y
+técnico, con esta integración se ha conformado una colaboración estrecha del gobierno desde el COZCyT a través del
+Laboratorio, que cuenta con un extraordinario potencial de desarrollo de proyectos tecnológicamente innovadores, para
+beneficio de todos los sectores desarrollando soluciones que están disponibles para la generalidad de la sociedad, con
+la intención de impulsar el emprendimiento entre los estudiantes que se integran a los proyectos, el Laboratorio
+posiciona los desarrollos y quienes los implantan son los estudiantes que los crearon como parte de su actividad
+académica iniciando, así, su actividad económicamente activa.
+
+Para ello, proponemos reformar diversas disposiciones de la Ley de Ciencia, Tecnología e Innovación del Estado de
+Zacatecas, con objeto de precisar que el Laboratorio de Software Libre y de Código Abierto será un órgano
+especializado del COZCYT, responsable de la coordinación de las actividades relativas a la creación, desarrollo,
+utilización y difusión del Software Libre y de Código Abierto en el Estado de Zacatecas".
+
+CONSIDERANDO ÚNICO.- Esta Soberanía Popular coincide con el Diputado y la Diputada Iniciantes, en relación a la
+importancia de legislar en este tema, con objeto de contribuir para el incremento de mejores condiciones de bienestar y
+desarrollo para las zacatecanas y zacatecanos.
+
+Igualmente, convergemos con la manifestación en el sentido de que los programas informáticos privativos, por su
+misma naturaleza de no permitir que se les realicen modificaciones para adecuarlos a las necesidades particulares de
+los usuarios, se constituyen en una limitación o freno para el desarrollo que debiera tenerse en esa materia.
+
+Ante esa realidad, se impone como necesidad urgente que, desde el ámbito del gobierno, se realicen todas las
+acciones necesarias que tengan como finalidad fomentar la creación, desarrollo, utilización y difusión del denominado
+Software Libre y de Código Abierto, con objeto de que los usuarios de esa tecnología puedan realizar las
+modificaciones que estimen pertinentes a los programas de cómputo a efecto de que respondan y satisfagan
+plenamente sus requerimientos específicos.
+
+El denominado Software Libre y de Código Abierto se ha convertido, a nivel mundial, en la principal estrategia para
+reducir la precitada Brecha Digital, dadas sus libertades que consolidan las rutas hacia una economía y sociedad del
+
+Página 4/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+conocimiento; la posibilidad de contar con gran cantidad de soluciones informáticas y tecnológicas con la libertad de
+compartirlas, utilizarlas, modificarlas y redistribuirlas de manera no limitada, garantiza la posibilidad de que puedan ser
+accesibles para todos.
+
+El Pleno de esta LX Legislatura, considera que la Innovación Abierta es la plataforma óptima para el progreso; que
+debe constituirse como la herramienta de integración de todos los sectores al desarrollo de proyectos innovadores bajo
+un escenario de colaboración, con la finalidad de obtener resultados para beneficio de todos; romper con el modelo
+tradicional del desarrollo de proyectos enfocados sólo hacia un sector, sólo hacia un beneficiario y, generalmente, sin
+considerar a los grupos más necesitados de la sociedad civil.
+
+Esta Soberanía Popular considera que se deben adoptar modelos como los implementados en Argentina, Brasil,
+Ecuador, Francia, Uruguay y Venezuela, por citar sólo algunos, en los que al impulsar el uso de Software Libre y de
+Código Abierto, las dependencias tienen la libertad de modificar las aplicaciones para adecuarlas en detalles
+específicos para su óptimo aprovechamiento y, principalmente, dejan de Invertir en soluciones licenciadas externas que
+regularmente no son portables entre ellas.
+
+En este contexto, cobra especial importancia el modelo de Software Público Brasileño que tomó el liderazgo en aquel
+País con inversión para conformar una instancia especializada que se dedica al diseño y creación de aplicaciones para
+implementarse en todas las dependencias del Gobierno Federal Brasileño, esto garantiza una plataforma unificada y
+homologada de soluciones informáticas que son portables entre todas las dependencias gubernamentales.
+
+En relación a este tema, reconocemos el trabajo que ha venido desarrollando, en esta materia, el Laboratorio de
+Software Libre y de Código Abierto del Consejo Zacatecano de Ciencia, Tecnología e Innovación (COZCYT) y, en
+función de esa probada dedicación, consideramos que sea dicha instancia la encargada de coordinar los esfuerzos que
+habrán de llevarse a cabo para alcanzar los objetivos delimitados en este Decreto.
+
+De igual manera es importante advertir el compromiso que el Gobierno Federal ha manifestado con objeto de articular
+estrategias para el desarrollo de proyectos de inclusión tecnológica, como el que lleva a cabo la Secretaria de
+Educación Pública para fortalecer la educación con equipamiento de computadoras portátiles pero concebido como un
+proyecto educativo aprovechando el sistema operativo Linux.
+
+En este sentido es oportuno mencionar que en el Plan Nacional de Desarrollo 2013-2018, el Ejecutivo Federal señala lo
+siguiente:
+
+Página 5/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+"La productividad en México no ha tenido suficiente dinamismo como consecuencia de las crisis a las que nos hemos
+enfrentado y debido a que aún existen barreras que limitan nuestra capacidad de ser productivos. Estas barreras se
+pueden agrupar en cinco grandes temas: fortaleza institucional, desarrollo social, capital humano, igualdad de
+oportunidades y proyección internacional.
+
+El desarrollo social debe ser la prioridad de un México incluyente. Muchos mexicanos se enfrentan a una serie de
+factores que los mantienen en círculos viciosos de desarrollo donde las oportunidades de progreso son escasas...
+
+Capital humano para un México con Educación de Calidad
+
+Un México con Educación de Calidad requiere robustecer el capital humano y formar mujeres y hombres
+comprometidos con una sociedad más justa y más próspera...
+
+... La falta de educación es una barrera para el desarrollo productivo del país ya que limita la capacidad de la población
+para comunicarse de una manera eficiente, trabajar en equipo, resolver problemas, usar efectivamente las tecnologías
+de la información para adoptar procesos y tecnologías superiores, así como para comprender el entorno en el que
+vivimos y poder innovar.
+
+La nación en su conjunto debe invertir en actividades y servicios que generen valor agregado de una forma sostenible.
+En este sentido, se debe incrementar el nivel de inversión -pública y privada- en ciencia y tecnología, así como su
+efectividad. El reto es hacer de México una dinámica y fortalecida Sociedad del Conocimiento".
+
+En las Líneas de Acción, del apartado de Educación de Calidad, en el referido Plan Nacional, entre otras, se propone
+las siguientes:
+
+&bull;
+
+Impulsar la articulación de los esfuerzos que realizan los sectores público, privado y social, para
+
+incrementar la inversión en Ciencia, Tecnología e Innovación (CTI) y lograr una mayor eficacia y eficiencia en su
+aplicación.
+
+&bull;
+
+Incrementar el gasto público en CTI de forma sostenida.
+
+&bull;
+
+Promover la inversión en CTI que realizan las instituciones públicas de educación superior.
+
+Página 6/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+&bull;
+
+Incentivar la inversión del sector productivo en investigación cientifica y desarrollo tecnológico.
+
+&bull;
+
+Fomentar el aprovechamiento de las fuentes de financiamiento internacionales para CTI.
+
+Finalmente, en el Anexo relativo a Resultados del Proceso de Consulta en su Modalidad de Propuestas Ciudadanas en
+Ventanillas Físicas y Electrónicas se refiere lo que a continuación se indica:
+
+"Si bien estos temas y preocupaciones se incluyeron, de manera global, en las metas y objetivos del Plan Nacional de
+Desarrollo, también destacan propuestas puntuales que fueron incorporadas en el Plan como resultado del proceso de
+consulta. ... Estas propuestas no sólo ayudaron a delinear un gran número de estrategias y líneas de acción, también
+contribuyeron a integrar un mejor diagnóstico de los retos que enfrentamos y a identificar nuevas vías para transformar
+al país. Las propuestas enviadas también cubrieron temas importantes que ameritan ser discutidos y analizados,
+aunque no formen parte puntual del presente Plan Nacional de Desarrollo. Tal es el caso de temas puntuales como, por
+ejemplo, el fomento a la educación basada en software libre, el desarrollo de ciudades autosuficientes y la penalización
+de crímenes contra la naturaleza".
+
+En el apartado de Impulso a la ciencia, tecnología e innovación del Plan Estatal de Desarrollo 2011-2016, el Titular del
+Poder Ejecutivo del Estado señaló lo siguiente:
+
+El bienestar social y una economía fuerte y sostenible están estrechamente vinculados a la competitividad de una
+región o país, y ésta a su vez al conocimientos (sic) científico, a la tecnología y a la innovación, debido a que las
+sociedades que están en la frontera del conocimiento científico y tecnológico tienen mucho mayores posibilidades de
+comprensión y ampliación de su riqueza intelectual para innovarse.
+
+Para que la ciencia, la tecnología y la innovación tengan efectos favorables en el estado, es indispensable su
+apropiación social, es decir, que sectores amplios de la población la incorporen cono parte de su vida y su cultura ....
+
+Este apartado se fundamenta en tres aspectos esenciales: la Ley de Ciencia, Tecnología e Innovación de reciente
+aprobación; las recomendaciones de instituciones y organismos de carácter nacional e internacional relacionados en el
+ámbito de la competitividad y el desarrollo científico y tecnológico; y a la atención de las propuestas y sugerencias de la
+comunidad científica y tecnológica del estado, de las instituciones de educación superior y centros de investigación, y a
+la sociedad en general en el marco de los foros realizados".
+
+Página 7/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+Esta Soberanía Popular advierte que si bien es cierto que la adopción del llamado Software Libre y de Código Abierto
+se refleja en un ahorro económico sustancial, gracias a su modelo de licenciamiento, no es menos cierto que el
+económico no es, en absoluto, el beneficio más importante, pues el valor real se obtiene de la capacidad de impulsar a
+nuestros jóvenes a un escenario de emprendimiento y autoempleo aprovechando su formación académica.
+
+El beneficio social es mucho mayor, al aportar soluciones que son alcanzables para cualquier persona que permitiría
+acortar la llamada brecha digital y fortalecer la inclusión digital global.
+
+Muestra del anterior ejemplo es que la Secretaría de Educación Pública del Gobierno Federal emitió la licitación pública
+para adquirir 240,000 computadoras portátiles para estudiantes de 5&deg; y 6&deg; grado de primaria de escuelas
+públicas. Esta etapa es parte de un proyecto para adquirir hasta 4 millones de máquinas y se articula para comenzar a
+entregarse en los estados de Colima, Tabasco y Sonora. En la referida licitación se requirió que los equipos cuenten
+únicamente con Sistema Operativo Linux.
+
+En Zacatecas, según información que nos proporcionan los encargados de los programas correspondientes, tenemos
+un avance significativo pues se ha instalado la plataforma y contenidos de escuelas Linux en 150 escuelas públicas del
+Estado propiciando un beneficio de aproximadamente 25,000 niños que estudian en estas escuelas. Mensualmente se
+realizan múltiples instalaciones lo que aumentan las cifras listadas.
+
+Actualmente en Zacatecas, y la región, se cuenta con una comunidad activa dedicada al fomento y difusión del
+Software Libre y de Código Abierto integrada por 10 instituciones de educación media superior estatales y el
+Laboratorio de Software Libre y de Código Abierto, lo que garantiza la posibilidad de que los planes y estrategias
+plasmadas en esta iniciativa legislativa tengan un beneficio muy amplio.
+
+El Laboratorio de Software Libre y de Código Abierto del COZCYT desde agosto del 2012 a junio del 2013 ha contado
+con la relevante integración de académicos y estudiantes de 6 instituciones de educación.
+
+Con la inclusión al desarrollo de proyectos de cerca de 100 estudiantes se han diseñado 25 proyectos de innovación
+tecnológica aprovechando soluciones libres, mismos que han sido puestos a disposición de manera pública para su
+implantación en cualquier instancia estatal bajo la filosofía del Software Libre y de Código Abierto.
+
+La integración de las instituciones de educación media superior y superior con la participación de académicos y
+
+Página 8/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+estudiantes, se cuenta con una extraordinario potencial para diseñar, desarrollar e implantar cualquier proyecto que se
+requiera en instancias públicas de cualquier sector de la región.
+
+Con la capacidad de diseñar hasta 30 cursos teórico prácticos especializados en temas de innovación tecnológica
+utilizando el Software Libre y de Código Abierto se cuenta con la posibilidad de capacitar hasta 1,000 personas por
+trimestre; esto permite contar con la capacidad de fortalecer de manera importante la cultura en la utilización y
+aprovechamiento de soluciones tecnológicas de Software Libre y de Código Abierto.
+
+Siendo la divulgación una actividad importante en temas de innovación, en 2011 y 2012 se organizaron las 2 ediciones
+del Congreso Internacional de Software Libre con un promedio de 750 asistentes y 40 conferencistas. Como
+complemento a este relevante evento se organiza, anualmente, el Festival Latinoamericano de Instalación de Software
+Libre que en su primera edición en abril de 2013 congregó a 350 participantes de 8 conferencias y 12 talleres prácticos.
+
+El Pleno de esta LX Legislatura considera importante mencionar como antecedente de los esfuerzos materia de la
+Iniciativa que la Secretaría de Hacienda y Crédito Público emitió los lineamientos para la aplicación y seguimiento de
+las medidas para el uso eficiente, transparente y eficaz de los recursos públicos, y las acciones de disciplina
+presupuestaria en el ejercicio del gasto público, así como para la modernización de la Administración Pública Federal
+en cuya parte relativa de manera clara ordenó:
+
+"Las Dependencias y Entidades, en el caso de contrataciones de software, considerarán tanto soluciones comerciales,
+como software libre o código abierto, para lo cual deberán evaluar aquella opción que represente las mejores
+condiciones en cuanto a uso, costo, riesgo, beneficio e impacto".
+
+Los integrantes de esta Sexagésima Legislatura del Estado consideramos procedentes las reformas que se proponen a
+la Ley de Ciencia, Tecnología e Innovación del Estado y la emisión de la Ley para Fomentar la Creación, Desarrollo,
+Utilización y Difusión de Software Libre del Estado de Zacatecas, pues estimamos que con su aprobación estaremos
+aportando elementos para un mayor desarrollo en la materia, dado que las propuestas contenidas en la Iniciativa
+correspondiente fueron derivadas de los diversos foros regionales que en Zacatecas, Jalpa, Fresnillo, Río Grande y
+Pinos se realizaron y en los que contamos con la destacada participación de la Universidad Autónoma de Zacatecas, la
+Universidad Tecnológica del Estado de Zacatecas, la Universidad Politécnica de Zacatecas, la Universidad Autónoma
+de Fresnillo, el Instituto Tecnológico de Zacatecas, el Instituto Tecnológico Superior de Fresnillo, el Instituto
+Tecnológico Superior Zacatecas Norte, la Secretaría de Educación del Estado, Escuelas de Educación Media Superior
+del Estado, el Laboratorio de Software Libre y de Código Abierto, entre otras."
+
+Página 9/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+Por todo lo anteriormente expuesto y fundado, y con apoyo además en lo dispuesto por los artículos 65, fracción I de la
+Constitución Política del Estado; 140 y 141 del Reglamento General del Poder Legislativo, en nombre del Pueblo es de
+decretarse y se
+
+DECRETA
+
+LEY PARA FOMENTAR LA CREACIÓN, DESARROLLO, UTILIZACIÓN Y DIFUSIÓN DEL SOFTWARE LIBRE Y DE
+CÓDIGO ABIERTO DEL ESTADO DE ZACATECAS
+CAPÍTULO I
+DISPOSICIONES GENERALES
+
+Naturaleza y ámbito de aplicación de la Ley
+Artículo 1
+La presente Ley es de orden público, interés social y de observancia obligatoria en el territorio del Estado de Zacatecas.
+Objetivos de la Ley
+Artículo 2
+Los objetivos de esta Ley son los siguientes:
+I.
+
+Determinar las actividades necesarias que permitan el fomento de la creación del Software Libre y de Código
+
+Abierto en los sectores público, privado y social en el Estado de Zacatecas;
+
+II.
+
+Establecer las acciones que hagan posible un mayor desarrollo del Software Libre y de Código Abierto entre los
+
+sectores público, privado y social en el Estado de Zacatecas, a partir de los avances registrados en la materia;
+
+III.
+
+Fomentar, en los sectores público, privado y social, la utilización del Software Libre y de Código Abierto, y
+
+IV.
+
+Definir las estrategias adecuadas para la difusión, a la población en general, del Software Libre y de Código
+
+Abierto.
+
+Página 10/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+Autoridades encargadas de la aplicación de esta Ley
+Artículo 3
+En el ámbito de su competencia, corresponde la aplicación de esta Ley a los titulares de los Poderes Ejecutivo,
+Legislativo y Judicial del Estado, de los Organismos con Autonomía Constitucional, de los Organismos
+Descentralizados y Desconcentrados de la Administración Pública Estatal, a los Presidentes de los Ayuntamientos del
+Estado y a los titulares de los Organismos Públicos Descentralizados y Desconcentrados de la Administración Pública
+Municipal.
+En cada una de las instituciones señaladas en el párrafo anterior, los servidores públicos ejercerán dichas funciones
+por conducto de la dependencia que tenga a su cargo, la administración de los recursos humanos, materiales y
+financieros.
+Glosario de términos
+Artículo 4
+Para los efectos de esta Ley los siguientes términos se entenderán en la forma que a continuación se indica:
+I.
+
+Código Fuente: El conjunto completo de instrucciones y archivos digitales originales creados o modificados, más
+
+todos los archivos digitales de soporte, como tablas de datos, imágenes, especificaciones, documentación, y todo otro
+elemento que sea necesario para producir un programa ejecutable a partir de ellos;
+
+II.
+
+COZCYT: El Consejo Zacatecano de Ciencia, Tecnología e Innovación;
+
+III.
+
+Laboratorio: El Laboratorio de Software Libre y de Código Abierto del Consejo Zacatecano de Ciencia,
+
+Tecnología e Innovación;
+
+IV.
+
+Ley: La presente Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software Libre y de
+
+Código Abierto del Estado de Zacatecas, y
+
+V.
+
+Software Libre y de Código Abierto: Los programas de cómputo cuya licencia garantizan al usuario final el
+
+acceso al código fuente del programa y lo autoriza a ejecutarlo con cualquier propósito, modificarlo y redistribuir copias
+tanto del programa original como de sus modificaciones, en las mismas condiciones de licenciamiento acordadas al
+programa original.
+CAPÍTULO II
+DEL FOMENTO PARA LA CREACIÓN DE SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+Página 11/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+Detección de necesidades materia de la Ley
+Artículo 5
+El COZCYT, por conducto del Laboratorio, realizará las actividades conducentes para detectar las necesidades de
+creación de Software Libre y de Código Abierto en los sectores público, privado y social del Estado de Zacatecas.
+Diagnóstico de necesidades materia de la Ley
+Artículo 6
+Derivado de las acciones precisadas en el artículo anterior, el Laboratorio presentará, a la consideración de la Junta
+Directiva del COZCYT, el diagnóstico de necesidades de creación de Software Libre y de Código Abierto en los
+sectores público, privado y social del Estado de Zacatecas.
+Plan Estatal en la materia
+Artículo 7
+Como consecuencia de lo ordenado en los dos artículos anteriores, el Laboratorio realizará y someterá a consideración
+de la Junta Directiva del COZCYT, el Proyecto de Plan Estatal de Creación, Desarrollo, Utilización y Difusión del
+Software Libre y de Código Abierto en los sectores público, privado y social del Estado de Zacatecas.
+En dicho Plan, deberá considerarse lo que establezcan, en esa materia, los Planes Nacional y Estatal de Desarrollo y
+demás disposiciones jurídicas aplicables.
+Actividades específicas en educación superior
+Artículo 8
+El Laboratorio, en coordinación con las instituciones de educación superior del Estado, fomentará en los estudiantes de
+licenciatura, especialización, maestría y doctorado, el impulso de acciones específicas tendientes a la creación y
+desarrollo de Software Libre y de Código Abierto.
+CAPÍTULO III
+DEL FOMENTO PARA EL DESARROLLO DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+Desarrollo de Software Libre y de Código Abierto
+Artículo 9
+Mediante la coordinación y, en su caso, apoyo del Laboratorio, las autoridades encargadas de la aplicación de esta Ley
+
+Página 12/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+llevarán a cabo las acciones procedentes para desarrollar los proyectos de Software Libre y de Código Abierto, que
+permitan lograr mayor eficiencia en sus procesos informáticos internos, el ahorro progresivo de recursos y el
+incremento en la productividad de los servidores públicos adscritos a sus dependencias.
+Asesoría del Laboratorio a dependencias
+Artículo 10
+Las entidades a que se refiere el artículo 3&deg;, mantendrán comunicación permanente con el Laboratorio, a efecto de
+que pueda brindarles asesoría en relación a las actividades que deban realizar para llevar a cabo procesos tendientes
+al desarrollo de Software Libre y de Código Abierto, respecto de las atribuciones que por ley tengan conferidas.
+El Laboratorio, de manera coordinada con la entidad solicitante, procurara que exista uniformidad en relación a
+procesos informáticos similares que se lleven a cabo en las diferentes dependencias o en relación a actividades
+análogas que sean llevadas a cabo por diferentes instituciones.
+CAPÍTULO IV
+DEL FOMENTO PARA LA UTILIZACIÓN DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+Software Libre y de Código Abierto en equipos nuevos
+Artículo 11
+Las autoridades referidas en el artículo 3&deg; tendrán la obligación de que todos los equipos de cómputo que se
+adquieran, a partir del inicio de vigencia de la presente Ley, utilicen, exclusivamente, Software Libre y de Código
+Abierto, con excepción de los casos en que, por sus propias características, deban utilizar software privativo.
+
+Los casos de excepción serán debidamente analizados y, en su caso, autorizados por la Junta Directiva del COZCYT.
+Capacitación en materia de Software Libre y de Código Abierto
+Artículo 12
+Las autoridades responsables de la aplicación de esta Ley estarán obligadas a capacitar, a la totalidad de su personal
+adscrito que utilice equipos de cómputo, para que dentro de los doce meses posteriores al inicio de vigencia de esta
+Ley estén en aptitud de utilizar, en sus actividades institucionales, Software Libre y de Código Abierto.
+Software Libre y de Código Abierto en instituciones de educación pública
+Artículo 13
+El Titular del Poder Ejecutivo del Estado, a través del Secretario de Educación, llevará a cabo las acciones necesarias
+
+Página 13/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+con objeto de que en las instituciones de educación pública, los estudiantes desarrollen competencias en la creación,
+desarrollo y utilización del Software Libre y de Código Abierto.
+Respecto de las instituciones educativas privadas y sociales, las autoridades señaladas en el párrafo anterior realizarán
+las actividades necesarias tendientes a promover la utilización del Software Libre y de Código Abierto.
+Utilización de formatos abiertos
+Artículo 14
+Las autoridades a que se refiere esta Ley impulsarán la utilización de formatos abiertos para el intercambio y difusión
+de información tanto en su funcionamiento interno como hacia el exterior.
+Igualmente fomentarán la utilización de dichos formatos en los sectores privado y social.
+CAPÍTULO V
+DEL FOMENTO PARA LA DIFUSIÓN DEL SOFTWARE LIBRE Y DE CÓDIGO ABIERTO
+
+Programa permanente de difusión
+Artículo 15
+El COZCYT, a través del Laboratorio, realizará un programa permanente de difusión en el que destacará las ventajas y
+beneficios de la utilización del Software Libre y de Código Abierto.
+Congreso Internacional sobre Software Libre y de Código Abierto
+Artículo 16
+El COZCYT, por medio del Laboratorio, realizará, anualmente, un Congreso Internacional sobre Software Libre y de
+Código Abierto, en el que difundirán los logros y alcances que se hayan obtenido en el año anterior y en el que
+expongan las expectativas en la materia para el año siguiente.
+Órgano de difusión
+Artículo 17
+El COZCYT, por conducto del Laboratorio, editará un órgano de difusión, preferentemente en formato electrónico, en el
+que se den a conocer entre los sectores público, privado y social, los avances que se hayan tenido en materia de
+creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto.
+En el referido órgano de difusión, podrán publicarse otros documentos relacionados con el tema del Software Libre y de
+Código Abierto.
+
+Página 14/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+CAPÍTULO VI
+DEL LABORATORIO
+
+Laboratorio de Software Libre y de Código Abierto
+Artículo 18
+El Laboratorio tendrá la naturaleza jurídica que se determine en la Ley de Ciencia, Tecnología e Innovación del Estado
+de Zacatecas.
+Su domicilio, organización y funcionamiento serán los que se establezcan en su Reglamento correspondiente.
+Atribuciones del Laboratorio
+Artículo 19
+El Laboratorio ejercerá las atribuciones siguientes:
+I.
+
+Promover la creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto en los sectores
+
+público, privado y social del Estado;
+
+II.
+
+Ser la instancia coordinadora de los esfuerzos que se lleven a cabo en los sectores público, privado y social del
+
+Estado de Zacatecas, en materia de creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto;
+
+III.
+
+Realizar y someter a consideración de la Junta Directiva del COZCYT, el Proyecto de Plan Estatal de
+
+Creación, Desarrollo, Utilización y Difusión del Software Libre y de Código Abierto en los sectores público, privado y
+social del Estado de Zacatecas;
+
+IV.
+
+Fomentar, en coordinación con las instituciones de educación superior del Estado, en los estudiantes de
+
+licenciatura, especialización, maestría y doctorado, el impulso de acciones específicas tendientes a la creación y
+desarrollo de Software Libre y de Código Abierto;
+
+V.
+
+Llevar a cabo las acciones procedentes para desarrollar los proyectos de Software Libre y de Código Abierto,
+
+que permitan lograr mayor eficiencia en los procesos informáticos internos, el ahorro progresivo de recursos y el
+incremento en la productividad de los servidores públicos adscritos a las dependencias;
+
+VI.
+
+Brindar asesoría en relación a las actividades que deban realizarse en los sectores público, privado y social,
+
+para llevar a cabo procesos tendientes al desarrollo de Software Libre y de Código Abierto;
+
+Página 15/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+VII.
+
+Emitir opinión respecto de los casos de excepción a que se refiere el artículo 11 de esta Ley;
+
+VIII.
+
+Brindar capacitación a los sectores público, privado y social en materia de creación, desarrollo, utilización y
+
+difusión del Software Libre y de Código Abierto;
+
+IX.
+
+Realizar eventos de divulgación sobre Software Libre y de Código Abierto, así como editar un órgano de
+
+difusión en el que se den a conocer entre los sectores público, privado y social, los avances que se hayan tenido en
+materia de creación, desarrollo, utilización y difusión del Software Libre y de Código Abierto;
+
+X.
+
+Suscribir, por conducto del COZCYT, convenios con dependencias, instituciones y organizaciones, con
+
+objetivos afines, a efecto de fomentar la creación, desarrollo, utilización y difusión del Software Libre y de Código
+Abierto, y
+
+XI.
+
+Las que se establezcan en esta Ley y demás disposiciones jurídicas aplicables
+TRANSITORIOS
+
+PRIMERO.- El presente Decreto entrará en vigor a partir del día siguiente al de su publicación en el Periódico Oficial,
+Órgano del Gobierno del Estado.
+SEGUNDO.- Se derogan todas las disposiciones que se opongan al contenido del presente Decreto.
+
+TERCERO.- Las autoridades a que se refiere el artículo 3&deg; de esta Ley llevarán a cabo las acciones necesarias a
+efecto de que, a más tardar, en el año 2016, al menos, el 60% de los equipos de cómputo asignados a las mismas
+utilicen Software Libre y de Código Abierto.
+
+CUARTO.- El Titular del Poder Ejecutivo del Estado propondrá y la Legislatura del Estado autorizará, en los
+Presupuestos de Egresos correspondientes, los recursos financieros necesarios para que, en los plazos previstos en
+esta Ley, sean cumplidas las metas determinadas en la misma.
+
+COMUNÍQUESE AL EJECUTIVO DEL ESTADO PARA SU PROMULGACIÓN Y PUBLICACIÓN.
+
+DADO en la Sala de Sesiones de la Honorable Sexagésima Legislatura del Estado de Zacatecas, a los veintiocho días
+del mes de junio del año dos mil trece.- Diputado Presidente.- GEORGINA RAMÍREZ RIVERA. Diputados Secretarios.-
+
+Página 16/17
+
+Ley para Fomentar la Creación, Desarrollo, Utilización y Difusión del Software
+Libre y de Código Abierto del Estado de Zacatecas
+
+JOSÉ DE JESÚS GONZÁLEZ PALACIOS e IVÁN ALEJANDRO CARRILLO MEDRANO.- Rúbricas.
+
+Y para que llegue al conocimiento de todos y se le dé el debido cumplimiento, mando se imprima, publique y circule.
+
+DADO en el Despacho del Poder Ejecutivo del Estado, a los veintiocho días del mes de Agosto del año dos mil trece.
+
+A t e n t a m e n t e.
+
+"SUFRAGIO EFECTIVO. NO REELECCIÓN"
+EL GOBERNADOR DEL ESTADO DE ZACATECAS
+LIC. MIGUEL ALEJANDRO ALONSO REYES.
+
+EL SECRETARIO GENERAL DE GOBIERNO
+PROFR. FRANCISCO ESCOBEDO VILLEGAS.
+
+EL SECRETARIO DE EDUCACIÓN
+PROFR. MARCO VINICIO FLORES CHÁVEZ
+
+Página 17/17
+
+
